@@ -1,0 +1,12 @@
+---
+title: "Air Quality & Health in NYC"
+author: "Ixtaccihuatl Obregon (iho2104), Ru Jin Lim (rl3411), Lupe Antonio (ga2612), Dylan Koproski (dfk2117), Gustavo Garcia-Franceschini (geg2145)"
+date: "2023-11-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project Proposal
